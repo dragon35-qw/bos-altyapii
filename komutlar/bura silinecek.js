@@ -1,0 +1,1 @@
+//burayı sil error nedeni o
